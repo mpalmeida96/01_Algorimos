@@ -1,0 +1,8 @@
+D:\ARQUIVOS\Matheus\Faculdade-ADS\Algoritimos\ContinhasMat\bin\Debug\ContinhasMat.exe.config
+D:\ARQUIVOS\Matheus\Faculdade-ADS\Algoritimos\ContinhasMat\bin\Debug\ContinhasMat.exe
+D:\ARQUIVOS\Matheus\Faculdade-ADS\Algoritimos\ContinhasMat\bin\Debug\ContinhasMat.pdb
+D:\ARQUIVOS\Matheus\Faculdade-ADS\Algoritimos\ContinhasMat\obj\Debug\ContinhasMat.csproj.AssemblyReference.cache
+D:\ARQUIVOS\Matheus\Faculdade-ADS\Algoritimos\ContinhasMat\obj\Debug\ContinhasMat.csproj.SuggestedBindingRedirects.cache
+D:\ARQUIVOS\Matheus\Faculdade-ADS\Algoritimos\ContinhasMat\obj\Debug\ContinhasMat.csproj.CoreCompileInputs.cache
+D:\ARQUIVOS\Matheus\Faculdade-ADS\Algoritimos\ContinhasMat\obj\Debug\ContinhasMat.exe
+D:\ARQUIVOS\Matheus\Faculdade-ADS\Algoritimos\ContinhasMat\obj\Debug\ContinhasMat.pdb
